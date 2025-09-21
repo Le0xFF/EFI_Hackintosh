@@ -1,5 +1,7 @@
 # EFI_Hackintosh
 
+Moved to Codeberg: https://codeberg.org/Le0xFF/EFI_Hackintosh
+
 Collection of EFI folder needed for the Hackintoshes I maintain.
 
 * **EFI\_BackupPapo\_YYYYMMDD**: my dad's hackintosh
